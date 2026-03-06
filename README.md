@@ -16,7 +16,7 @@ Pip (Python package manager)
 Quick Start
 Clone the repository:
 Bash
-git clone https://github.com/yourusername/scoutbot-ui.git
+git clone https://github.com/Charliebaba69/websocket-Controller
 cd scoutbot-ui
 
 
