@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+
+# PyInstaller (Build Files)
+build/
+dist/
+*.spec
+
+# Data (Don't push your personal device IPs)
+scoutbot_data.json
+scout_collections.json
+
+# IDEs
+.vscode/
+.idea/
